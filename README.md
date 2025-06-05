@@ -1,25 +1,18 @@
-# 💻 Repositório de Exercícios
+## 💻 Exercise Repository
+This repository gathers the exercises I solve on various challenge platforms, currently using JavaScript.
 
-Este repositório reúne os exercícios que resolvo em diversas plataformas de desafio, usando atualmente JavaScript.
+## 📁 Organization
+The files are separated by platform and language:
 
-## 📁 Organização
-
-Os arquivos estão separados por plataforma e linguagem:
-
-```
-exercicios/
 ├── hackerrank/
 │   └── javascript/
 ├── leetcode/
 │   └── javascript/
 ├── beecrowd/
 │   └── javascript/
-```
 
-## 🎯 Objetivo
+## 🎯 Objective
+To record my progress with logic and programming exercises, as well as to serve as a reference and showcase my development.
 
-Registrar meu progresso com exercícios de lógica e programação, além de servir como consulta e mostrar minha evolução.
-
-## 🔄 Atualizações
-
-Sempre que eu resolver um novo exercício, ele vai aparecer aqui.
+## 🔄 Updates
+Whenever I solve a new exercise, it will appear here.
